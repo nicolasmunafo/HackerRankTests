@@ -1,0 +1,4 @@
+﻿  prepkitsday2.cpp
+C:\Users\Nicolas\source\repos\HackerRankTests\prepkitsday2.cpp(91,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\HackerRankTests\prepkitsday2.cpp(202,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HackerRankTests.vcxproj -> C:\Users\Nicolas\source\repos\HackerRankTests\x64\Debug\HackerRankTests.exe

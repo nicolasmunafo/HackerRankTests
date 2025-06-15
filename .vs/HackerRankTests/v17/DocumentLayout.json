@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:prepkitsday2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:prepkitsday2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\HackerRankTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:HackerRankTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:PrepKeysDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:PrepKeysDay1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prepkitsday2.cpp",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.cpp",
+              "RelativeDocumentMoniker": "prepkitsday2.cpp",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.cpp",
+              "RelativeToolTip": "prepkitsday2.cpp",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAANYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:07:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prepkitsday2.h",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.h",
+              "RelativeDocumentMoniker": "prepkitsday2.h",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.h",
+              "RelativeToolTip": "prepkitsday2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T18:01:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrepKeysDay1.h",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.h",
+              "RelativeDocumentMoniker": "PrepKeysDay1.h",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.h",
+              "RelativeToolTip": "PrepKeysDay1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T18:01:39.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HackerRankTests.cpp",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\HackerRankTests.cpp",
+              "RelativeDocumentMoniker": "HackerRankTests.cpp",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\HackerRankTests.cpp",
+              "RelativeToolTip": "HackerRankTests.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:02:26.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrepKeysDay1.cpp",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp",
+              "RelativeDocumentMoniker": "PrepKeysDay1.cpp",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp",
+              "RelativeToolTip": "PrepKeysDay1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T18:01:01.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
