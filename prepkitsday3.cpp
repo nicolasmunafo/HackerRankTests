@@ -72,40 +72,55 @@ void PrepKitsDay3::exTowerBreakers()
 
 int PrepKitsDay3::findMaxDivisor(int num)
 {
-  for (int i = num - 1; i > 0; i--) {
+  if (num % 2 == 0)
+    return num / 2;
+  
+  for (int i = num / 2; i > 1; i--) {
     if (num % i == 0)
-      return num;
+      return i;
   }
   return 1;
 }
 
 int PrepKitsDay3::towerBreakers(int n, int m)
 {
-  // Create n towers with height m
-  std::vector<int> towers(n, m);
-  int currentPlayer = 1;
   int winner = 0;
-  int currentTower = 0;
-  int maxDiv = 0;
-  int piecesToRemove = 0;
+  
+  if (m == 1) winner = 2;
+  else if (n % 2 == 0)
+    winner = 2;
+  else
+    winner = 1;
 
-  while (winner == 0) {
 
-    if (currentTower == (n+1)) && towers[currentTower-1]
-    maxDiv = findMaxDivisor(towers[currentTower]);
-    piecesToRemove = towers[currentTower] - maxDiv;
+  
+  //// Create n towers with height m
+  //std::vector<int> towers(n, m);
+  //int currentPlayer = 1;
+  //int winner = 0;
+  //int currentTower = 0;
+  //int maxDiv = 0;
+  //int piecesToRemove = 0;
 
-    if (piecesToRemove <= 1) {
-      winner = (currentPlayer == 1 ? 2 : 1);
-      break;
-    }
+  //// If there is only 1 tower, player 1 will win as they can automatically optimize it and remove all but one pieces
+  //if (n == 1) winner = 1;
 
-    towers[currentTower] -= piecesToRemove;
+  //while (winner == 0) {
 
-    currentTower = (currentTower == n - 1 ? 0 : currentTower + 1);
-    currentPlayer = (currentPlayer == 1 ? 2 : 1);
+  //  maxDiv = findMaxDivisor(towers[currentTower]);
+  //  piecesToRemove = towers[currentTower] - maxDiv;
 
-  }
+  //  if (piecesToRemove <= 1) {
+  //    winner = (currentPlayer == 1 ? 2 : 1);
+  //    break;
+  //  }
+
+  //  towers[currentTower] -= piecesToRemove;
+
+  //  currentTower = (currentTower == n - 1 ? 0 : currentTower + 1);
+  //  currentPlayer = (currentPlayer == 1 ? 2 : 1);
+
+  //}
 
   cout << winner;
   return winner;
