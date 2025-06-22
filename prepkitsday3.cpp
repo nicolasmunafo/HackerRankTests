@@ -82,6 +82,67 @@ int PrepKitsDay3::findMaxDivisor(int num)
   return 1;
 }
 
+void PrepKitsDay3::exCaesarCipher()
+{
+  //ofstream fout(getenv("OUTPUT_PATH"));
+
+  string n_temp;
+  getline(cin, n_temp);
+
+  int n = stoi(ltrim(rtrim(n_temp)));
+
+  string s;
+  getline(cin, s);
+
+  string k_temp;
+  getline(cin, k_temp);
+
+  int k = stoi(ltrim(rtrim(k_temp)));
+
+  string result = caesarCipher(s, k);
+
+  //fout << result << "\n";
+
+  //fout.close();
+
+  //return 0;
+}
+
+std::string PrepKitsDay3::caesarCipher(string s, int k)
+{
+  int maxLower = 122;
+  int maxUpper = 90;
+  int totalChars = 26;
+  int charInt = 0;
+  int maxVal = 0;
+  int cipheredChar = 0;
+  int convertedShifts = k % totalChars;
+
+  std::string cipheredString = "";
+
+  for (auto character : s) {
+    charInt = static_cast<int>(character);                      // Convert the character to int
+
+    if ((maxUpper - totalChars) < charInt && charInt <= maxUpper)         // Check if it's in the range of Upper Case 
+      maxVal = maxUpper;
+    else if ((maxLower - totalChars) < charInt && charInt <= maxLower)    // Check if it's in the range of Lower Case
+      maxVal = maxLower;
+    else {                                                      // Just append the character and move to the next one
+      cipheredString += character;
+      continue;
+    }
+
+    cipheredChar = charInt + convertedShifts;                                 // Add k offset and if it exceeds the maximum, subtract the max number of letters
+    if (cipheredChar > maxVal)
+      cipheredChar -= totalChars;
+
+    cipheredString += static_cast<char>(cipheredChar);
+  }
+
+  cout << cipheredString;
+  return cipheredString;
+}
+
 int PrepKitsDay3::towerBreakers(int n, int m)
 {
   int winner = 0;

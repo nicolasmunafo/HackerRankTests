@@ -9,7 +9,7 @@ public:
 	PrepKitsDay3() {
 		exercises.push_back([this]() { exZigZagSequence(); });
 		exercises.push_back([this]() { exTowerBreakers(); });
-		//exercises.push_back([this]() { exTimeConversion(); });
+		exercises.push_back([this]() { exCaesarCipher(); });
 	}
 
 private:
@@ -20,7 +20,7 @@ private:
 	int towerBreakers(int n, int m);
 	int findMaxDivisor(int num);
 
-	//void exTimeConversion();
-	//std::string timeConversion(std::string s);
+	void exCaesarCipher();
+	std::string caesarCipher(std::string s, int k);
 };
 
