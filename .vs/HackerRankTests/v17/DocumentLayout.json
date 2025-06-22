@@ -3,24 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:prepkitsday2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:prepkitsday3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:prepkitsday2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:prepkitsday3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\HackerRankTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:HackerRankTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:PrepKeysDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:PrepKeysDay1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94558608-41CD-4EA5-AA79-5EBA9C510E05}|HackerRankTests.vcxproj|solutionrelative:PrepKeysDay1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +38,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "prepkitsday2.cpp",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.cpp",
-              "RelativeDocumentMoniker": "prepkitsday2.cpp",
-              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.cpp",
-              "RelativeToolTip": "prepkitsday2.cpp",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAAANYAAAATAAAAAAAAAA==",
+              "Title": "prepkitsday3.cpp",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday3.cpp",
+              "RelativeDocumentMoniker": "prepkitsday3.cpp",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday3.cpp",
+              "RelativeToolTip": "prepkitsday3.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwF0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-09T18:07:42.218Z",
+              "WhenOpened": "2025-06-21T00:14:46.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "prepkitsday2.h",
-              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.h",
-              "RelativeDocumentMoniker": "prepkitsday2.h",
-              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday2.h",
-              "RelativeToolTip": "prepkitsday2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Title": "prepkitsday3.h",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday3.h",
+              "RelativeDocumentMoniker": "prepkitsday3.h",
+              "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\prepkitsday3.h",
+              "RelativeToolTip": "prepkitsday3.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T18:01:30.666Z"
+              "WhenOpened": "2025-06-21T00:13:31.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ViewState": "AgIAAFAHAAAAAAAAAAAWwGQHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-18T22:44:59.812Z"
             },
             {
               "$type": "Document",
@@ -65,31 +81,31 @@
               "RelativeDocumentMoniker": "PrepKeysDay1.h",
               "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.h",
               "RelativeToolTip": "PrepKeysDay1.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-09T18:01:39.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HackerRankTests.cpp",
               "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\HackerRankTests.cpp",
               "RelativeDocumentMoniker": "HackerRankTests.cpp",
               "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\HackerRankTests.cpp",
               "RelativeToolTip": "HackerRankTests.cpp",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwCkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-09T18:02:26.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PrepKeysDay1.cpp",
               "DocumentMoniker": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp",
               "RelativeDocumentMoniker": "PrepKeysDay1.cpp",
               "ToolTip": "C:\\Users\\Nicolas\\source\\repos\\HackerRankTests\\PrepKeysDay1.cpp",
               "RelativeToolTip": "PrepKeysDay1.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-09T18:01:01.142Z"
             }

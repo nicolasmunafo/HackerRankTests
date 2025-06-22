@@ -3,6 +3,7 @@
 
 #include "PrepKeysDay1.h"
 #include "prepkitsday2.h"
+#include "prepkitsday3.h"
 #include "Exercise.h"
 #include <algorithm>
 
@@ -38,9 +39,11 @@ int main()
 	std::vector<Exercise*> exercisesVec;
 	PrepKeysDay1* prepKeysDay1 = new PrepKeysDay1();
 	PrepKitsDay2* prepKitsDay2 = new PrepKitsDay2();
+	PrepKitsDay3* prepKitsDay3 = new PrepKitsDay3();
 
 	exercisesVec.push_back(prepKeysDay1);
 	exercisesVec.push_back(prepKitsDay2);
+	exercisesVec.push_back(prepKitsDay3);
 
 	int exNum = 0, exDay=1;
 	std::cout << "Day num: "; std::cin >> exDay;
@@ -52,4 +55,5 @@ int main()
 
 	delete(prepKeysDay1);
 	delete(prepKitsDay2);
+	delete(prepKitsDay3);
 }

@@ -132,6 +132,7 @@
     <ClCompile Include="hackerrank_common.cpp" />
     <ClCompile Include="PrepKeysDay1.cpp" />
     <ClCompile Include="prepkitsday2.cpp" />
+    <ClCompile Include="prepkitsday3.cpp" />
     <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +140,7 @@
     <ClInclude Include="hackerrank_common.h" />
     <ClInclude Include="PrepKeysDay1.h" />
     <ClInclude Include="prepkitsday2.h" />
+    <ClInclude Include="prepkitsday3.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
