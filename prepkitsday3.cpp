@@ -143,6 +143,66 @@ std::string PrepKitsDay3::caesarCipher(string s, int k)
   return cipheredString;
 }
 
+void PrepKitsDay3::exTestPalindrome()
+{
+  //ofstream fout(getenv("OUTPUT_PATH"));
+
+  string q_temp;
+  getline(cin, q_temp);
+
+  int q = stoi(ltrim(rtrim(q_temp)));
+
+  for (int q_itr = 0; q_itr < q; q_itr++) {
+    string s;
+    getline(cin, s);
+
+    int result = palindromeIndex(s);
+
+    //fout << result << "\n";
+  }
+
+  //fout.close();
+
+  //return 0;
+}
+
+int PrepKitsDay3::palindromeIndex(std::string s)
+{
+  int lastChar = s.length() - 1;
+  int stringHalfSize = (s.length() - 1) / 2;
+  int removeChar = -1;
+  int leftOffset = 0, rightOffset = 0;
+
+  for (int i = 0; i < (stringHalfSize - leftOffset - rightOffset) ; i++) {
+     
+    if (s[i + leftOffset] == s[lastChar - rightOffset - i])
+      continue;
+    else if (removeChar != -1) {
+      removeChar = -1;
+      break;
+    }
+
+    if (s[i+ leftOffset] == s[lastChar - rightOffset - i - 1]) {
+      removeChar = lastChar - i;
+      rightOffset = 1;
+      continue;
+    }    
+    
+    if (s[i + leftOffset + 1] == s[lastChar - rightOffset - i]) {
+      removeChar = i;
+      leftOffset = 1;
+      continue;
+    }
+
+    removeChar = -1;
+    break;
+  }
+
+
+  cout << removeChar;
+  return removeChar;
+}
+
 int PrepKitsDay3::towerBreakers(int n, int m)
 {
   int winner = 0;
